@@ -14,7 +14,7 @@ AddRoundKey
 
 and also demonstrates a simplified key‑schedule step that derives additional round keys from a 128‑bit master key
 ## Project structure
-
+```text
 AES_S00443079/
 ├── build/                 # (optional) build artifacts
 └── src/
